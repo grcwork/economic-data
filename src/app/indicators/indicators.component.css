@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    border: 5px solid black;
+    justify-items: center;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0.7));
+    border-radius: 5px;
+}
