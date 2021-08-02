@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
+**Indicadores Económicos de Chile recuperados mediante una API REST y Angular**
+
 ![Front end](src/assets/frontend_screenshot.PNG)
 
 ## Development server
